@@ -1,0 +1,3 @@
+hw:100
+lab:98
+provide proper explanation using markdown cells(write a few points on your understanding)
